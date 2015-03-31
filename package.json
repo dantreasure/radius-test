@@ -1,0 +1,22 @@
+{
+  "name": "radius-test",
+  "version": "1.0.0",
+  "description": "test server for radius",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dantreasure/radius-test.git"
+  },
+  "author": "dantreasure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantreasure/radius-test/issues"
+  },
+  "homepage": "https://github.com/dantreasure/radius-test",
+  "dependencies": {
+    "radius": "^1.1.0"
+  }
+}
